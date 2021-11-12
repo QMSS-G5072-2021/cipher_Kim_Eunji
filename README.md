@@ -1,6 +1,6 @@
 # cipher_ek3223
 
-adding the cipher function to a package
+Creating first package and adding the cipher function as a homework exercise.
 
 ## Installation
 
@@ -8,9 +8,12 @@ adding the cipher function to a package
 $ pip install cipher_ek3223
 ```
 
+## Documentation
+Check out https://readthedocs.org/projects/cipher-ek3223/
+
 ## Usage
 
-- TODO
+- TO DO
 
 ## Contributing
 
